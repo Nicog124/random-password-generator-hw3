@@ -7,6 +7,7 @@ Taking in the users prefreenced for what the password with contain character wis
 
 https://github.com/Nicog124/random-password-generator-hw3
 
+https://nicog124.github.io/random-password-generator-hw3/
 
 
 
